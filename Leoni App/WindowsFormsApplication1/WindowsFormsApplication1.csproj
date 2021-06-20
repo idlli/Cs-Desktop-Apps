@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0C55FDB2-8287-49E6-976F-05C6B83751ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication1</RootNamespace>
+    <AssemblyName>WindowsFormsApplication1</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MachAjouter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MachAjouter.Designer.cs">
+      <DependentUpon>MachAjouter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trans_cbale.cs" />
+    <Compile Include="MachModifie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MachModifie.Designer.cs">
+      <DependentUpon>MachModifie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MachSupprimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MachSupprimer.Designer.cs">
+      <DependentUpon>MachSupprimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParcAjouter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParcAjouter.Designer.cs">
+      <DependentUpon>ParcAjouter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParcModifie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParcModifie.Designer.cs">
+      <DependentUpon>ParcModifie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ParcSupprimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParcSupprimer.Designer.cs">
+      <DependentUpon>ParcSupprimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update.Designer.cs">
+      <DependentUpon>update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TechSupprimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TechSupprimer.Designer.cs">
+      <DependentUpon>TechSupprimer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TechAjouter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TechAjouter.Designer.cs">
+      <DependentUpon>TechAjouter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TechModifie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TechModifie.Designer.cs">
+      <DependentUpon>TechModifie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Trans_pers.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Conducteur.cs" />
+    <Compile Include="Transport.cs" />
+    <EmbeddedResource Include="MachAjouter.resx">
+      <DependentUpon>MachAjouter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MachModifie.resx">
+      <DependentUpon>MachModifie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MachSupprimer.resx">
+      <DependentUpon>MachSupprimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParcAjouter.resx">
+      <DependentUpon>ParcAjouter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParcModifie.resx">
+      <DependentUpon>ParcModifie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParcSupprimer.resx">
+      <DependentUpon>ParcSupprimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update.resx">
+      <DependentUpon>update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechSupprimer.resx">
+      <DependentUpon>TechSupprimer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechAjouter.resx">
+      <DependentUpon>TechAjouter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TechModifie.resx">
+      <DependentUpon>TechModifie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,31 @@
+C:\Users\AMIN\Desktop\Devoir\Devoir\bin\Debug\Devoir.exe.config
+C:\Users\AMIN\Desktop\Devoir\Devoir\bin\Debug\Devoir.exe
+C:\Users\AMIN\Desktop\Devoir\Devoir\bin\Debug\Devoir.pdb
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.csprojAssemblyReference.cache
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.Properties.Resources.resources
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.csproj.GenerateResource.cache
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.csproj.CoreCompileInputs.cache
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.exe
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.pdb
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.frmAccueil.resources
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.frmFactoriel.resources
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.frmTableau.resources
+C:\Users\AMIN\Desktop\Devoir\Devoir\obj\Debug\Devoir.frmJeux.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\bin\Debug\Devoir.exe.config
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\bin\Debug\Devoir.exe
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\bin\Debug\Devoir.pdb
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.csprojAssemblyReference.cache
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.NfrmAccueil.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.NfrmFactoriel.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.NfrmJeux.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.NfrmTableau.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.OfrmAccueil.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.OfrmFactoriel.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.OfrmJeux.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.OfrmTableau.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.Properties.Resources.resources
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.csproj.GenerateResource.cache
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.csproj.CoreCompileInputs.cache
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.exe
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.pdb
+C:\Users\AMIN\Desktop\Devoir - Copy (3)\Devoir\obj\Debug\Devoir.LeChoix.resources

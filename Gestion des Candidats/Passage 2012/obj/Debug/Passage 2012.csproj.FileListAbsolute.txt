@@ -1,0 +1,9 @@
+E:\Passage 2012\Passage 2012\bin\Debug\Passage 2012.exe.config
+E:\Passage 2012\Passage 2012\bin\Debug\Passage 2012.exe
+E:\Passage 2012\Passage 2012\bin\Debug\Passage 2012.pdb
+E:\Passage 2012\Passage 2012\obj\Debug\Passage 2012.csprojResolveAssemblyReference.cache
+E:\Passage 2012\Passage 2012\obj\Debug\Passage_2012.Form1.resources
+E:\Passage 2012\Passage 2012\obj\Debug\Passage_2012.Properties.Resources.resources
+E:\Passage 2012\Passage 2012\obj\Debug\Passage 2012.csproj.GenerateResource.Cache
+E:\Passage 2012\Passage 2012\obj\Debug\Passage 2012.exe
+E:\Passage 2012\Passage 2012\obj\Debug\Passage 2012.pdb

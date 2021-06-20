@@ -1,0 +1,90 @@
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.miseàjourajouter.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.miseàjourmodification.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.miseàjour.resources
+G:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.miseàjoursuppression.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachAjouter.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachModifie.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcAjouter.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcModifie.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcSupprimer.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Update.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechSupprimer.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechAjouter.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechModifie.resources
+C:\Users\AMIN\Desktop\Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachSupprimer.resources
+E:\Examen - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Examen - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Examen - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachAjouter.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachModifie.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachSupprimer.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcAjouter.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcModifie.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcSupprimer.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechSupprimer.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechAjouter.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechModifie.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachAjouter.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachModifie.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachSupprimer.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcAjouter.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcModifie.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcSupprimer.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechSupprimer.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechAjouter.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechModifie.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AMIN\Desktop\Examen - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Nouveau Examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Nouveau Examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Nouveau Examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachAjouter.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachModifie.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MachSupprimer.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcAjouter.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcModifie.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ParcSupprimer.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechSupprimer.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechAjouter.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.TechModifie.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\Re Nouveau Examen\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Re Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Re Nouveau Examen\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
